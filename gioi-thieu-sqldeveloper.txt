@@ -1,0 +1,4 @@
+GIỚI THIỆU SƠ BỘ VỀ SQLDEVELOPER CƠ BẢN:
+Phần 1: Gói cài đặt của nó. 
+	File cài đặt được giải nén và dùng, chạy file .sh để lên giao diện người dùng
+	Làm thế nào có thể hiện được icon trong cho chương trình, thay vào việc cứ mỗi lần chạy đều phải tìm file cai đặt trong opt/dbtools/,...blablla
