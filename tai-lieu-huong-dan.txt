@@ -1,0 +1,4 @@
+Hướng dẫn sử dụng: SQLDEVELOPER cơ bản:
+------------------------------------
+Phần 1: Hướng dẫn cài đặt trên Ubuntu:
+
