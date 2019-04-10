@@ -1,4 +1,4 @@
 Hướng dẫn sử dụng: SQLDEVELOPER cơ bản:
 ------------------------------------
 Phần 1: Hướng dẫn cài đặt trên Ubuntu:
-
+Bài 1: Hướng dẫn cấu hình và quản lý quyền try cập như thế nào:
